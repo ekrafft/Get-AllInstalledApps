@@ -38,7 +38,6 @@ This PowerShell script inventories all installed applications from multiple sour
 
 ## 📦 Installation
 
-```bash
 # Clone the repository
 git clone https://github.com/ekrafft/Get-AllInstalledApps.git
 
