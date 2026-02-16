@@ -1,7 +1,5 @@
 # Get-AllInstalledApps
-This script inventories all installed applications from multiple sources: Windows Registry (32/64-bit and user installations), Microsoft Store apps (AppxPackage), Package managers: Scoop, Chocolatey.
-
-# Get-AllInstalledApps
+This script inventories all installed applications from multiple sources.
 
 A comprehensive Windows application inventory tool that scans multiple sources to provide a complete picture of all installed software on a machine.
 
