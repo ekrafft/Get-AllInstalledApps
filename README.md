@@ -34,14 +34,6 @@ This PowerShell script inventories all installed applications from multiple sour
 - No administrative privileges required
 - Optional: Scoop, Chocolatey, or Winget (if installed)
 
-## 📦 Installation
-
-# Clone the repository
-git clone https://github.com/ekrafft/Get-AllInstalledApps.git
-
-# Navigate to folder
-cd Get-AllInstalledApps
-
 ## 🚀 Usage
 # Basic Scan (Recommended)
 powershell
